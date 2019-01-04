@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:620px;
+  width:239px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -976,63 +976,5 @@
   top:0px;
   width:0px;
   visibility:hidden;
-  word-wrap:break-word;
-}
-#u281_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:130px;
-  height:62px;
-  background:inherit;
-  background-color:rgba(242, 242, 242, 1);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-size:18px;
-}
-#u281 {
-  border-width:0px;
-  position:absolute;
-  left:300px;
-  top:0px;
-  width:130px;
-  height:62px;
-  font-size:18px;
-}
-#u281_text {
-  border-width:0px;
-  position:absolute;
-  left:2px;
-  top:20px;
-  width:126px;
-  word-wrap:break-word;
-}
-#u282_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:320px;
-  height:230px;
-}
-#u282 {
-  border-width:0px;
-  position:absolute;
-  left:300px;
-  top:80px;
-  width:320px;
-  height:230px;
-  text-align:left;
-}
-#u282_text {
-  border-width:0px;
-  position:absolute;
-  left:2px;
-  top:2px;
-  width:316px;
   word-wrap:break-word;
 }
